@@ -9,6 +9,6 @@ fn main() {
     {
     let x = x+x; //showdowing
     println!("value of x is {x}");
-    }//shadowing scope ends here.
+    }//shadowing  cope ends here.
     println!("value of x becomes  { }", operations(2,3));
 }
